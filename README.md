@@ -22,12 +22,23 @@ Tools Used
   <li><strong>Fleet</strong> - To manage the Elastic Agents at scale across the home lab environment.</li>
   <li><strong>Elastic Defend</strong> - Added integration for threat detection, investigation, and response within the Elastic Stack.</li>
   <li><strong>Kali Linux</strong> - Booted to VirtualBox VM to launch and monitor SIEM Lab.</li>
+<ul></ul>
+
+
+<ol>
+  1. <img width="959" alt="nmap scan lab" src="https://github.com/user-attachments/assets/3354182a-3d0b-49b2-8a58-46cc3aee7a32" /></li>
+  2. <img width="959" alt="scan rule" src="https://github.com/user-attachments/assets/37ae2b20-28d5-4dd7-aa2b-cec59c60a2ab" /></li>
+  3. <img width="836" alt="lab logs" src="https://github.com/user-attachments/assets/93ffe8a0-0e3b-4560-ae5f-581ff8a196ac" /></li>
+</ol>
+
+
+
+
+
+
+
 <ul>
-
-Screenshots
-
-
-
-Example below.
-
-Ref 1: Network Diagram
+  <li>Ref 1: Dashboard for visualization</li>
+  <li>Ref 2: Rule set to alert any Nmap scan detection</li>
+  <li>Ref 3: Logs for applicable security controls</li>
+</ul>
