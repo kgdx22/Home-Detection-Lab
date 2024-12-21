@@ -24,11 +24,9 @@ Tools Used
   <li><strong>Kali Linux</strong> - Booted to VirtualBox VM to launch and monitor SIEM Lab.</li>
 <ul>
 
+Screenshots
 
-Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
 
